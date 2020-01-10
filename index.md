@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome to my pandastic Life!! #
+![Oscar G](https://user-images.githubusercontent.com/59342211/71979506-2c306c00-321e-11ea-9115-a2e77b0d8316.jpg )
+***
 
-You can use the [editor on GitHub](https://github.com/oscarpete/oscarpete.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Hello Stalker !*  
+I am Oscar Guti, the panda guy :panda_face: from Antwerpen.   
+I'm a entrepreneur, anti-influencer and the one who will build the greatest **adtech** platform!  
+Follow my journey on github account, [here](https://github.com/sponsormeoscar).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience: ##
 
-```markdown
-Syntax highlighted code block
+* Founder.
 
-# Header 1
-## Header 2
-### Header 3
+* Public Speaker.
 
-- Bulleted
-- List
+* Lecturer.
+* Business/Entrepreneurship mentor.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Education: ##
 
-[Link](url) and ![Image](src)
-```
+| Degree | School  | Years |
+|:-----:|:----------:|:-----:|
+| Master in Law and Social Science | Universidad de El Salvador | 2002-2007 |
+| Business Administration and Entrepreneurship          | Founders Institute Brussels| 2014-2015 |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarpete/oscarpete.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Skills: :panda_face:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **HTML** 
+- **CSS**  
+- **Wordpress**  
+- **Video Editing** 
+***
+:telephone: 04979908??  
+:e-mail: sample@gmail.com
